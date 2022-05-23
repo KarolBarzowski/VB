@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="https://github.com/KarolBarzowski" />
+    <title>GooDreamShop</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="header__logo" id="site_title"></h1>
+      <p class="header__sublogo">We're selling dreams</p>
+    </header>
+    <nav class="nav">
+      <a href="./index.html" class="nav__link">Products</a>
+      <button type="button" class="nav__cart">
+        <span id="cart_counter"></span>
+        <img src="./assets/cart.svg" alt="" />
+      </button>
+    </nav>
+    <section class="products">
+      <h2>Our products</h2>
+      <div class="filters">
+        <input
+          type="text"
+          placeholder="Search"
+          class="filters__search"
+          id="search"
+        />
+        <div class="sort" id="sort_buttons">
+          <button
+            type="button"
+            class="sort__button sort__button--active"
+            data-sortType="name"
+          >
+            <span>Name A-Z</span>
+            <img src="./assets/sort.svg" alt="" />
+          </button>
+          <button type="button" class="sort__button" data-sortType="priceASC">
+            <span>Price Low-High</span>
+            <img src="./assets/trending_up.svg" alt="" />
+          </button>
+          <button type="button" class="sort__button" data-sortType="priceDESC">
+            <span>Price High-Low</span>
+            <img src="./assets/trending_down.svg" alt="" />
+          </button>
+          <button type="button" class="sort__button" data-sortType="rating">
+            <span>Rating</span>
+            <img src="./assets/star.svg" alt="" />
+          </button>
+        </div>
+      </div>
+      <ul class="list" id="products"></ul>
+    </section>
+    <footer class="footer">
+      <p>We're selling dreams</p>
+    </footer>
+    <script src="index.js"></script>
+  </body>
+</html>

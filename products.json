@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Lorem ipsum",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 122,
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Dolor sit amet",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 214,
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Consectetur adipiscing elit",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 415,
+        "rating": 3,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Nulla vel aliquet mi",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 99,
+        "rating": 2,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Non elementum lectus",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 150,
+        "rating": 1,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Sed gravida consectetur",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 144,
+        "rating": 3,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Aliquam dictum ex ante",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 25,
+        "rating": 4,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Nulla eleifend augue sed",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 89,
+        "rating": 1,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Curabitur porttitor",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 233,
+        "rating": 1,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Sed bibendum purus",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 77,
+        "rating": 2,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "In nunc justo",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 55,
+        "rating": 2,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Sit amet fringilla sem",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 34,
+        "rating": 4,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Aenean nec ullamcorper",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 77,
+        "rating": 3,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Praesent facilisis nulla",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 299,
+        "rating": 4,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Etiam tincidunt",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 350,
+        "rating": 3,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    },
+    {
+        "name": "Morbi vitae dictum erat",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 666,
+        "rating": 5,
+        "img": "https://images.unsplash.com/photo-1620503374956-c942862f0372?fit=crop&w=280&h=220"
+    }
+]
